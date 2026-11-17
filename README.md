@@ -1,5 +1,9 @@
 # tiny-chess-01 — 4KB chess engine
 
+[![make.fun · tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/ydhtma/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/ydhtma/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+
 A 0x88-board negamax engine in 4,094 bytes (MIT). Pure Python 3 stdlib,
 no other repo file read, no model calls, deterministic: search runs to a
 fixed node budget (100,000 nodes/move), never a wall clock, so a replay
