@@ -25,7 +25,6 @@ produces the same moves.
 - `main.py` — the whole engine (lzma + base85 payload, 4,094 bytes).
 - `dev/` — readable source (`main_v5.py`), selftests, trial harness,
   build script (NOT part of the submitted snapshot; see below).
-- `BUILD-LOG.md` — build log (not submitted).
 
 ## Size rule (verified)
 
